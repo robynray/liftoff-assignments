@@ -7,12 +7,21 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+Overview: The pantry app is a tool designed to help users manage items in their pantry. The user can easily add, edit, and remove items in their pantry. The pantry app will track expiration date, quantity management, and create a shopping list. This will help users keep their pantry well organized. 
 ### Features
-Include Features here
+User authentication and authorization: User can sign in and manage their account settings.
+Search and filter: Allows users the abilty to search and filters items by name, category and expiration date.
+Shopping list: Provide a shopping list feature that allows users to add items to a list.
+Item detail: Display detailed information about each item (name, quantity, expiration date)
+Dashboard: A dashboard to display items expiring soon. What should be restocked. 
+
 ### Technologies
-Include Technologies here
+JavaScript
+React
+API Database
+
 ### What I'll Have to Learn
-Include what you will need to learn here
+I will have to learn react and brush up on my JavaScript skills. I will have to learn how to implement an outside API. 
 ### Project Tracker
 Link to your Trello board here
+https://trello.com/b/j0byqRmg/lift-off-project
